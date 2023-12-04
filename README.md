@@ -2,7 +2,7 @@
 
 # Please follow the given procedure to see the result
 ## Step: 1
-  Clone the directory using command `git clone https://github.com/Akashbhoi/Cabsharing`
+  Clone the directory using command `git clone https://github.com/AakibAlam/Cabsharing`
 ## Step: 2
   Open the directory `Cabsharing` and run `npm start` on terminal, 
   `node modules` folder will automatically be added and

@@ -1,5 +1,4 @@
 # CabSharingApp
-CS253 Project
 
 # Please follow the given procedure to see the result
 ## Step: 1
